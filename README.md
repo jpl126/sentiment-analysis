@@ -6,4 +6,4 @@ Based on the [twitter airline sentiment](https://www.kaggle.com/crowdflower/twit
 To start project run `setup.sh`. It will take a while so be patient.
 
 ## Running jupyter-lab
-`docker run -it -p 8888:8888 -v /project/root/absolute/path:/sentiment_analysis  sentiment-analysis`
+`docker run -it -p 8888:8888 -v /project/root/absolute/path:/sentiment-analysis  sentiment-analysis`
